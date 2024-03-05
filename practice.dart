@@ -1,3 +1,5 @@
 void main() {
-  print('Hello man');
+  String name;
+  name = 'Kotha Raju';
+  print(name);
 }
