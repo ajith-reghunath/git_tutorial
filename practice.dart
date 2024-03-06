@@ -1,5 +1,5 @@
 void main() {
   String name;
-  name = 'version 5 with remote repo';
+  name = 'version 6';
   print(name);
 }
