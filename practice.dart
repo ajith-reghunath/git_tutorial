@@ -1,5 +1,5 @@
 void main() {
   String name;
-  name = 'version 6';
+  name = 'test';
   print(name);
 }
